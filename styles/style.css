@@ -175,6 +175,7 @@
 }
 
 .card {
+    z-index: 0;
     color: #fff;
     padding: 51px 40px 48px 40px;
     position: relative;
